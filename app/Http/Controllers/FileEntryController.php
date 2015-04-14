@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\File;
 use Illuminate\Http\Response;
 
-class FileentryController extends Controller {
+class FileEntryController extends Controller {
 
 	
 	public function __construct()
